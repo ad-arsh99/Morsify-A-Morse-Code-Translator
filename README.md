@@ -1,4 +1,7 @@
-Freetoss is an interactive and user-friendly app developed using React.JS and Firebase. The app caters to the needs of students as a place to store, retrieve, and edit their documents. We have also included the feature to build a personalized CV resume for the user. The app is built upon the idea to give back to the student community that has helped us to grow.
+Morsify is the project built using Java that stemmed out of Nolan's magnum opus Interstellar. It can transcribe morse code into English and vice versa. Morsify's GUI has been designed to help kids learn Morse code in a much more interactive manner. The project is developed for all the curious Murphys out in the world.
+
+
+
 
 
 
