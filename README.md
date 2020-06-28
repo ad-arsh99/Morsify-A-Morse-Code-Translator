@@ -1,4 +1,4 @@
-#Morsify
+Morsify
 
 **Morsify is the project built using Java that stemmed out of Nolan's magnum opus Interstellar. It can transcribe morse code into English and vice versa. Morsify's GUI has been designed to help kids learn Morse code in a much more interactive manner. The project is developed for all the curious Murphys out in the world.**
 
